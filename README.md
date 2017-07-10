@@ -1,7 +1,9 @@
 # RetroShooter
 Old school shooter game in terminal
 
-• Single-player
+• Single-player 
+
+
 • Display using the ncurses library
 • Horizontal or vertical scrolling
 • Random enemies
